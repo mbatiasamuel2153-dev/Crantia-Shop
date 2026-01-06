@@ -111,8 +111,8 @@ height:65px;
 }
  .moja-photo {
   display:flex;
-    width:  130px;
-    height: 160px;
+    width:  100px;
+    height: 130px;
     border-radius: 14px;
     margin-top:1px;
 }
@@ -144,8 +144,8 @@ height:65px;
 
 .two-photo{ 
      display:flex;
-    width:  130px;
-    height: 160px;
+    width:  100px;
+    height: 130px;
     border-radius: 14px;
     margin-top:1px;
 } 
@@ -173,8 +173,8 @@ height:65px;
  }
 .three-photo{
        display:flex;
-    width:  130px;
-    height: 160px;
+    width:  100px;
+    height: 130px;
     border-radius: 14px;
     margin-top:1px;
     
@@ -213,8 +213,8 @@ height:65px;
 }
 .four-photo{
         display:flex;
-    width:  130px;
-    height: 160px;
+    width:  100px;
+    height: 130px;
     border-radius: 14px;
     margin-top:1px;
 }
@@ -242,8 +242,8 @@ height:65px;
 }
 .five-photo{
    display:flex;
-    width:  130px;
-    height: 160px;
+    width:  100px;
+    height: 130px;
     border-radius: 14px;
     margin-top:1px;  
 }
@@ -269,8 +269,8 @@ height:65px;
 }
 .six-photo{
     display:flex;
-    width:  130px;
-    height: 160px;
+    width:  100px;
+    height: 130px;
     border-radius: 14px;
     margin-top:1px;
 }
@@ -378,4 +378,5 @@ height:65px;
   justify-content: center;
   border-radius:10px;
  height: 270px;
+
 } 
